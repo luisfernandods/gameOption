@@ -1,4 +1,4 @@
-angular.module("personal", ["ngFileUpload"]);
+angular.module("GameOption", ["ngFileUpload"]);
 angular
-  .module("personal")
+  .module("GameOption")
   .controller("IndexController", function($scope, servicoUsuario) {});

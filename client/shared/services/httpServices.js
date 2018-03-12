@@ -1,4 +1,4 @@
-angular.module("personal").service("servicoUsuario", [
+angular.module("GameOption").service("servicoUsuario", [
   "$http",
   function($http) {
     return {
